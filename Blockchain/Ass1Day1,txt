@@ -1,0 +1,46 @@
+1. What is your understanding of Blockchain?
+
+-  On 3 January 2009, the bitcoin network came into existence with Satoshi Nakamoto.
+-  Blockchain is the latest Technology which secures our data.
+-  In this Technology uses blocks for understanding the Blockchain. It made by two Technology such as Distributive       Database and Cryptography.
+-  Blockchains have been used to underpin cyber-currencies like bitcoin, but many other possible uses are emerging. 
+
+2. What is the core problem blockchain trying to solve?
+
+-  We are living during a truly revolutionary time of decentralization, cryptocurrencies, and tokenized economies. However, none of this would be possible if it weren’t for the advent of the Blockchain.
+-  The most simple definition of a Blockchain is a distributed database, meaning that a network exists in which every participant has access to the entire database. These participants then get to decide what information goes into the Blockchain.Additionally, it is impossible to alter information stored within a Blockchain once it is actually input. -  -  It’s also worth noting that an excessive amount of computing power would be required to take down an entire Blockchain. So excessive, in fact, that it is impossible with current technology. 
+-  The benefits that can be drawn from utilizing this technology might not be as clear as day in the beginning; however, there are in fact real use cases and real issues that can be solved through the use of a Blockchain database. 
+
+3. what are the few features which blockchain will give you?
+
+-  Can't be Corrupted
+-  Decentralized Technology
+-  Distributed Ledgers
+-  Consensus
+-  Faster Settlement
+
+4. What all things does a Block Contain?
+
+-  Each block contains, among other things, the current time, a record of some or all recent transactions, and a reference to the block that came immediately before it. 
+-  It also contains an answer to a difficult-to-solve mathematical puzzle - the answer to which is unique to each block.
+-  Every block also contains a record of which Bitcoin addresses or scripts are entitled to receive the reward. 
+-  This record is known as a generation transaction, or a coinbase transaction, and is always the first transaction appearing in every block. 
+-  The number of Bitcoins generated per block starts at 50 and is halved every 210,000 blocks (about four years).
+-  The collection of all blocks in existence can be said to form a chain. 
+-  However, it's possible for the chain to have temporary splits - for example, if two miners arrive at two different valid solutions for the same block at the same time, unbeknownst to one another. 
+-  The peer-to-peer network is designed to resolve these splits within a short period of time, so that only one branch of the chain survives.
+
+5. How is the verifiability of Blockchain is been attained?
+
+-  As public ledgers, Bitcoin blockchain and Ethereum require transactions to be visible by default.
+-  Ethereum network offers pseudo-anonymity; for example, transactions are linked to addresses that correspond to public keys derived by user-held private keys, not by username or password.
+-  Certain technologies are currently being developed and tested for Ethereum 2 and Ethereum 3 that add an enclave of privacy to public Ethereum, namely, zk-SNARKs.A zk-SNARK is a cryptographic proof system that allows users to maintain private transactions while validating the transactions according to the network’s consensus algorithm.Once zk-SNARKs is implemented, organizations will be able to transact on the same network as their competitors in complete privacy, while enjoying the security of the public Ethereum blockchain.
+-  Until then, enterprises can utilize public or private Ethereum to address a wide variety of use cases. 
+-  Examples are provided below.
+Enterprise looking to leverage the peer to peer trustless structure of blockchain technology often wonder how data can be both publicly verifiable and anonymous at the same time. To answer this question, we must denote the difference between permissioned and permissionless blockchains. Both the Bitcoin blockchain and the public Ethereum blockchain are permissionless, meaning anyone can join the network, read the public ledger, and participate in validating transactions and blocks by running a node. 
+-  Transactions on permissionless ledgers are pseudo-anonymous by design– transactions are linked to addresses that correspond to public keys derived by user-held private keys, not by username or password. Transactions are encrypted and stored on multiple devices, or nodes around the globe. 
+-  This decentralization, transparency, widely-verifiable, and append-only nature makes it almost impossible to tamper with data.
+-  Conversely, banks and other corporations with a fundamental need for private transactions, are currently more prone to using private, or permissioned blockchains. 
+-  On permissioned blockchains, transactions are anonymous to the general public. 
+-  Permissioned blockchains use the same technology as permissionless blockchains, but require specific authorizations to read, access, and write information on them. 
+-  Therefore, access can be restricted, and information can be encrypted to protect confidentiality.
